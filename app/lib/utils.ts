@@ -67,7 +67,3 @@ export const generatePagination = (currentPage: number, totalPages: number) => {
     totalPages,
   ];
 };
-
-function greet(ar:TemplateStringsArray){
-  console.log('ar', ar)
-}
